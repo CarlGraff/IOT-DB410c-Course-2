@@ -10,10 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2fd14f3-6df9-4a52-b19e-19e75a06ed25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/db410c_gpiolib_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Module_8_Calit_Bird.iws" />
@@ -2312,7 +2308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1490751288117</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit&#10;">
+      <created>1490751349403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490751349403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit extra&#10;">
+      <created>1490751377754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490751377754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2365,7 +2375,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit&#10;" />
+    <MESSAGE value="Initial Commit extra&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit extra&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
